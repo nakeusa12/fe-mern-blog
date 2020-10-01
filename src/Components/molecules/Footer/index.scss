@@ -1,0 +1,27 @@
+.main-footer{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 15px 40px;
+    background-color: rgb(21, 79, 165);
+    color: white;
+    margin-top: 20px;
+
+    .footer-logo{
+        font-size: 20px;
+        font-weight: 600;
+    }
+
+}
+
+.footer-end{
+    width: 100%;
+    padding: 1px 0;
+    text-align: center;
+    background-color: rgb(17, 61, 126);
+    color: white;
+
+    p{
+        font-size: 14px;
+    }
+}
